@@ -1,7 +1,10 @@
 .DS_Store
 
-/Arduino\ Photos
-/Robot\ Kit
-/Quizzes
-/Scratch
+# Ignore these folders
+/ArduinoPhotos
+/RobotKit
+/Training
 /Random
+
+!/Random/Machine_Learning_Course_Outline.docx
+!/Random/problem_set.pdf
