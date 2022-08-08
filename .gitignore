@@ -4,7 +4,7 @@
 /ArduinoPhotos
 /RobotKit
 /Training
-/Random
+Random/*
 
 !/Random/Machine_Learning_Course_Outline.docx
 !/Random/problem_set.pdf
