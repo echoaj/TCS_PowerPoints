@@ -19,3 +19,7 @@ When I was first hired at TCS, I made written tutorials in scratch so I could lo
 
 ## Random
 Random documents I've collected over the years.
+
+# Download Instructions
+1. Verify that you have git installed.
+2. In the terminal type: `git clone https://github.com/echoaj/TCS_PowerPoints.git`
