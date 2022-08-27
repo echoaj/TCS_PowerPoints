@@ -21,6 +21,9 @@ When I was first hired at TCS, I made written tutorials in scratch so I could lo
 Random documents I've collected over the years.
 
 # Download Instructions
+### Option 1
+1. Click the green "Code" button on the top right of the page and "Download ZIP".
+### Option 2
 1. Git must be installed on your computer.
-2. Using the terminal, navigate to the directory where you want to download the files.
+2. Using your computer's terminal, navigate to the directory where you want to download the files.
 3. In the terminal type: `git clone https://github.com/echoaj/TCS_PowerPoints.git`
